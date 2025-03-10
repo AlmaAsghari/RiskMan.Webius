@@ -14,6 +14,7 @@ We are workin on creating an investment platform for a community of investors wh
 </br></br>
 <h1>Built with</h1>
 Svgator</br>
+Figma</br>
 Html/Css</br>
 Java
 
