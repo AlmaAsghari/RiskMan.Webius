@@ -7,7 +7,7 @@ Website design project with Html,Css<br/>
   <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius?tab=readme-ov-file#how-it-works">How it works</a>
   <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius?tab=readme-ov-file#roadmap">Roadmap</a></li>
   <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius?tab=readme-ov-file#contacts">Contacts</a></li>
-  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius/edit/main/README.md#acknowledgments">Acknowledgments</a></li>
+  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius#acknowledgments">Acknowledgments</a></li>
 </ul>
 </br>
 <h1>About</h1>
