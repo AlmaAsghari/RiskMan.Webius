@@ -4,10 +4,10 @@ Website design project with Html,Css<br/>
 <ul>
   <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius?tab=readme-ov-file#about">About</a></li>
   <LI><a href="https://github.com/AlmaAsghari/RiskMan.Webius#built-with">Built with</a></LI>
-  <li><a href="heading-How it works">How it works</a></li>
-  <li><a href="heading-Roadmap">Roadmap</a></li>
-  <li><a href="heading-Contacts">Contacts</a></li>
-  <li><a href="heading1-Acknowledgments">Acknowledgments</a></li>
+  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius?tab=readme-ov-file#how-it-works">How it works</a>
+  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius/edit/main/README.md#roadmap">Roadmap</a></li>
+  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius/edit/main/README.md#contacts">Contacts</a></li>
+  <li><a href="https://github.com/AlmaAsghari/RiskMan.Webius/edit/main/README.md#acknowledgments">Acknowledgments</a></li>
 </ul>
 </br>
 <h1>About</h1>
