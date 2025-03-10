@@ -1,11 +1,11 @@
 # RiskMan.Webius
 Website design project with Html,Css<br/>
 <ul>
-   <li><a href="heading1-About">About</a></li>
-  <LI><a href="heading1-Built with">Built with</a></LI>
-  <li><a href="heading1-How it works">How it works</a></li>
-  <li><a href="heading1-Roadmap">Roadmap</a></li>
-  <li><a href="heading1-Contacts">Contacts</a></li>
+   <li><a href="heading-About">About</a></li>
+  <LI><a href="heading-Built with">Built with</a></LI>
+  <li><a href="heading-How it works">How it works</a></li>
+  <li><a href="heading-Roadmap">Roadmap</a></li>
+  <li><a href="heading-Contacts">Contacts</a></li>
   <li><a href="heading1-Acknowledgments">Acknowledgments</a></li>
 </ul>
 </br>
