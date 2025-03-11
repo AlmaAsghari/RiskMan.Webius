@@ -15,6 +15,8 @@ Website design project with Html,Css<br/>
 <h1>About</h1>
 We are workin on creating an investment platform for a community of investors who can support each other in reaching their financial goals.</br>What can you do on this website?</br>Investment or creating an investment platform</br></br>Investment:</br>All sorts of investment will be completely online in deferent exchanges.</br>Advice:</br>Everyone can casult the best method of investing by sharing their informaton and conditions in here.</br></br>Members:</br>Alma Asghari-PM</br>Kimia Yaghmaei-UI&UX designer</br>Zahra Ansarifar-Developer</br>Sara Kariz sabahi-Developer</br>Tahoora Naseri-DM
 </br></br>
+
+
 <h1>Built with</h1>
 Svgator</br>
 Figma</br>
@@ -22,7 +24,9 @@ Html/Css</br>
 Java
 
 
+
 <h1>How it works</h1>
+
 
 
 
@@ -49,17 +53,21 @@ Java
 <pre>     Coding</pre>
 5.Responsive
 
+ 
 
 <h1>Contacts</h1>
-<a href="t.me/AlmaAsghari">Alma Asghari</a></br>
-<a href="t.me/Jstkimia">Kimia Yaghmaei</a> </br>
-<a href="t.me/Tahoora_841220">Tahoora Nasery</a></br>
-<a href="t.neur_swra">Sara Kariz sabahi</a>
+<a href="https://t.me/AlmaAsghari">Alma Asghari</a></br>
+<a href="https://t.me/Jstkimia">Kimia Yaghmaei</a> </br>
+<a href="https://t.me/Tahoora_841220">Tahoora Nasery</a></br>
+<a href="https://t.me/neur_swra">Sara Kariz sabahi</a>
+
 
  
 <h1>Acknowledgments</h1>
 <a href="https://partschool.ir/crocodeile">Cro.Code.Ile ‌Bootcamp</a>
 <br>
 <a href="https://dribbble.com/shots/popular/web-design">Dribbble</a>
+<h1> </h1>
+<h4><a href="https://github.com/AlmaAsghari/RiskMan.Webius#riskmanwebius">Back to top</a></h4>  
 
 
