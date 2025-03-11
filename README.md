@@ -51,7 +51,10 @@ Java
 
 
 <h1>Contacts</h1>
-</br>Alma Asghari</br>@AlmaAsghari</br></br>Kimia Yaghmaei </br> @Jstkimia</br></br>Tahoora Nasery </br>@Tahoora_841220</br></br> Sara Kariz sabahi</br>@ur_swra
+<a href="t.me/AlmaAsghari">Alma Asghari</a></br>
+<a href="t.me/Jstkimia">Kimia Yaghmaei</a> </br>
+<a href="t.me/Tahoora_841220">Tahoora Nasery</a></br>
+<a href="t.neur_swra">Sara Kariz sabahi</a>
 
  
 <h1>Acknowledgments</h1>
